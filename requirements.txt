@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+PyMuPDF
+openai
+openai-agents
+context7-mcp
+pandas
+google-generativeai
+python-dotenv
+fpdf2
